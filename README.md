@@ -31,6 +31,7 @@ Confidence probability
 
 
 ############################# System Architecture #############################
+
 Browser (Web App)
       ↓
 API Gateway (Public REST API)
@@ -42,6 +43,7 @@ SageMaker Endpoint (ML inference)
 PyTorch Model (DistilBERT)
 
 ############################# Key Features #############################
+
  Modern ML Model
 
 Transformer-based NLP (DistilBERT)
