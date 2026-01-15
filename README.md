@@ -88,8 +88,8 @@ Static web frontend (HTML + JS)
 
 ############################# Security & Cost Awareness #############################
 
-No AWS credentials exposed to frontend
-API Gateway as controlled entry point
+No AWS credentials exposed to the frontend
+API Gateway as a controlled entry point
 Lambda IAM role with scoped permissions
 Input size limits to prevent abuse
 Endpoints shut down when not in use
