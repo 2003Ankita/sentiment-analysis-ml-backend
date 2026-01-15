@@ -1,7 +1,6 @@
 # Name : Ankita Patra
 # MS in Computer Science | Boston University
 
-Focused on Backend Engineering, Cloud Systems & Applied ML
 ############################# Overview #############################
 
 This project implements an end-to-end, production-ready sentiment analysis system that predicts whether a movie review expresses positive or negative sentiment.
