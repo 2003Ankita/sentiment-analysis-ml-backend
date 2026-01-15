@@ -97,7 +97,7 @@ Input size limits to prevent abuse
 Endpoints shut down when not in use
 
 ############################# Project Structure #############################
-.
+
 ├── train/
 │   ├── train.py          # SageMaker training script
 │   ├── model.py          # PyTorch model definition
